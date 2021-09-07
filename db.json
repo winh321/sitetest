@@ -2,10 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "title": "Win Htike"
+    },{"id":2,"title":"Thandar Aye"}
+
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Win Htike"
   }
 }
